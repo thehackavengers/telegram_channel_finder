@@ -1,0 +1,7 @@
+telethon
+streamlit
+pandas
+langdetect
+tqdm
+backoff
+python-dotenv
